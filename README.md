@@ -1,1 +1,1 @@
-# 2.10QA_Automation
+# 2.10QA_Automation  ("Roman" changed to "Detektiv")
