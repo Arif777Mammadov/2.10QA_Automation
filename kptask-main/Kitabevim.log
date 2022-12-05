@@ -1,0 +1,26 @@
+2022-12-04 15:30:29  [steps.BookPageSteps] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2022-12-04 15:30:29  [steps.BookPageSteps] (main:) TEST Has Started
+2022-12-04 15:30:29  [steps.BookPageSteps] (main:) Web page is opened
+2022-12-04 15:30:29  [steps.BookPageSteps] (main:) CSV Readed!
+2022-12-04 15:30:30  [steps.BookPageSteps] (main:) Roman searched!
+2022-12-04 15:30:35  [steps.BookPageSteps] (main:) Basket Count readed
+2022-12-04 15:30:40  [steps.BookPageSteps] (main:) Random book is selected
+2022-12-04 15:30:40  [steps.BookPageSteps] (main:) The book added to basket
+2022-12-04 15:30:40  [steps.BookPageSteps] (main:) Basket Count checked again
+2022-12-04 15:30:40  [steps.BookPageSteps] (main:) Hovering to basket icon
+2022-12-04 15:43:03  [steps.BookPageSteps] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2022-12-04 15:43:03  [steps.BookPageSteps] (main:) TEST Has Started
+2022-12-04 15:43:03  [steps.BookPageSteps] (main:) Web page is opened
+2022-12-04 15:43:03  [steps.BookPageSteps] (main:) CSV Readed!
+2022-12-04 15:43:03  [steps.BookPageSteps] (main:) Roman searched!
+2022-12-04 15:43:06  [steps.BookPageSteps] (main:) Basket Count readed
+2022-12-04 15:43:27  [steps.BookPageSteps] (main:) Random book is selected
+2022-12-04 15:43:27  [steps.BookPageSteps] (main:) The book added to basket
+2022-12-04 15:43:27  [steps.BookPageSteps] (main:) Basket Count checked again
+2022-12-04 15:43:27  [steps.BookPageSteps] (main:) Hovering to basket icon
+2022-12-04 17:30:33  [steps.BookPageSteps] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2022-12-04 17:30:33  [steps.BookPageSteps] (main:) TEST Has Started
+2022-12-04 17:30:33  [steps.BookPageSteps] (main:) Web page is opened
+2022-12-04 17:30:33  [steps.BookPageSteps] (main:) CSV Readed!
+2022-12-04 17:30:33  [steps.BookPageSteps] (main:) Roman searched!
+2022-12-04 17:30:48  [steps.BookPageSteps] (main:) Basket Count readed
